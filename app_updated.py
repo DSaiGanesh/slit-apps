@@ -1,6 +1,5 @@
 import datetime
 import streamlit as st, pandas as pd, numpy as np
-!pip install millify
 from millify import millify
 from datetime import date, timedelta
 import yfinance as yf
